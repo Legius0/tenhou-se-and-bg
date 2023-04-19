@@ -1,7 +1,7 @@
 {
   "ver":1.0,
   "se":{
-    "3":{"url":"https://raw.githubusercontent.com/vg-mjg/tenhou-se-and-bg/master/countdown5.mp3"},
+    "3":{"url":"https://github.com/Legius0/tenhou-se-and-bg/raw/master/countdown5.mp3"},
     "25":{"url":"https://github.com/Legius0/tenhou-se-and-bg/raw/master/yuzu/yuzu_pon.mp3"},
     "26":{"url":"https://github.com/Legius0/tenhou-se-and-bg/raw/master/ayako/ayako_pon.mp3"},
     "27":{"url":"https://github.com/Legius0/tenhou-se-and-bg/raw/master/yuzu/yuzu_kan.mp3"},
@@ -14,7 +14,7 @@
     "34":{"url":"https://github.com/Legius0/tenhou-se-and-bg/raw/master/ayako/ayako_ron.mp3"},
     "35":{"url":"https://github.com/Legius0/tenhou-se-and-bg/raw/master/yuzu/yuzu_tsumo.mp3"},
     "36":{"url":"https://github.com/Legius0/tenhou-se-and-bg/raw/master/ayako/ayako_tsumo.mp3"},
-    "40":{"url":"https://raw.githubusercontent.com/vg-mjg/tenhou-se-and-bg/master/winlose.mp3"},
-    "41":{"url":"https://raw.githubusercontent.com/vg-mjg/tenhou-se-and-bg/master/yakuman.mp3"}
+    "40":{"url":"https://github.com/Legius0/tenhou-se-and-bg/raw/master/winlose.mp3"},
+    "41":{"url":"https://github.com/Legius0/tenhou-se-and-bg/raw/master/yakuman.mp3"}
   }
 }
